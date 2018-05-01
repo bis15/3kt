@@ -1,4 +1,5 @@
-<?php
-$get =   $_GET['username' ];
-echo "كريم".$get."رمضان";
+
+
+<?php  $_REQUEST['name'];?>
+echo "شهر مبارك" .$get ."رمضان كريم"
 ?> 
