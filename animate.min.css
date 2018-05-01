@@ -1,0 +1,7 @@
+echo "# 3ktr" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origin https://github.com/bis15/3ktr.git
+
+ git push -u origin master
