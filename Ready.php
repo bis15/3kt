@@ -1,4 +1,4 @@
 <?php
 $get =   $_GET['username' ];
-echo "rmdan".$get."careem";
+echo "كريم".$get."رمضان";
 ?> 
